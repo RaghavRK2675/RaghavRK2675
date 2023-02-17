@@ -3,7 +3,7 @@
 <div align="center">
 <img src="LOGO INT EDIT.gif" align="center" style="width: 70%" />
 </div>  
-
+<br>
 <div align="center">
 <img src="ezgif.com-gif-maker (1).gif" align="center" style="width: 70%" />
 </div>
