@@ -1,7 +1,7 @@
 <div align="center">
-<img src="-Robot-Waving-unscreen.gif" align="center" style=": 5%" />
+<img src="-Robot-Waving-unscreen.gif" align="center" style="width: 5%" />
 </div>👋 Hi there 👋 <div align="center">
-<img src="-Robot-Waving-unscreen.gif" align="center" style=": 5%" />
+<img src="-Robot-Waving-unscreen.gif" align="center" style="width: 5%" />
 </div>
 
 <div align="center">
