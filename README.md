@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <div align="center">
-<img src="LOGO INT EDIT.gif" align="center" style="width: 100%" />
+<img src="LOGO INT EDIT.gif" align="center" style="width: 70%" />
 </div>  
 
 <div align="center">
-<img src="ezgif.com-gif-maker (1).gif" align="center" style="width: 100%" />
+<img src="ezgif.com-gif-maker (1).gif" align="center" style="width: 70%" />
 </div>
 
 <div align="center">I'm Raghav, a student and junior developer 👨‍💻🚀</div>  
@@ -83,7 +83,7 @@ Connect with me
 
 
 My Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=RaghavRK2675&theme=dark&show_icons=true" align="center" style="width: 100%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=RaghavRK2675&theme=dark&show_icons=true" align="center" style="width: 70%" /></div>  
 
 <br/>  
 
