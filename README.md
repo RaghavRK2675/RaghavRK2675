@@ -1,7 +1,7 @@
-### Hi there 👋
+###                                                            Hi there 👋
 
 <div align="center">
-<img src="LOGO INT EDIT.gif" align="center" style="width: 70%" />
+<img src="LOGO INT EDIT.gif" align="center" style=": 70%" />
 </div>  
 <br>
 <div align="center">
@@ -10,6 +10,10 @@
 
 <div align="center"><h2>I'm Raghav, a student and junior developer 👨‍💻🚀</h2></div>  
   
+<div align="center">
+<img src="RUNNING RGB STRIP.gif" align="center" style="width: 70%" />
+</div>
+
 
 - 🔭 I’m currently working on C, HTML, CSS 3, SQL & JS projects  
   
