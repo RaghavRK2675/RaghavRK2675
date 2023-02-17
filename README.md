@@ -1,6 +1,9 @@
 <div align="center">
   <img src="-Robot-Waving-unscreen.gif" align="center" style="width: 35%" /><em>Hi there👋</em> <img src="-Robot-Waving-unscreen.gif" align="center" style="width: 35%" />
 </div>
+<div align="center">
+<img src="RUNNING RGB STRIP.gif" align="center" style="width: 130%" />
+</div>
 
 <div align="center">
 <img src="STANDING ME INT.gif" align="center" style=": 5%" />
