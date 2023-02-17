@@ -58,11 +58,11 @@ My Skill Set
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 </div>
+
+</td></tr></table>  
 <div align="center">
 <img src="RUNNING RGB STRIP.gif" align="center" style="width: 130%" />
 </div>
-
-</td></tr></table>  
 
 <br/>  
 
