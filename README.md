@@ -11,7 +11,7 @@
 <div align="center"><h2>I'm Raghav, a student and junior developer 👨‍💻🚀</h2></div>  
   
 <div align="center">
-<img src="RUNNING RGB STRIP.gif" align="center" style="width: 100%" />
+<img src="RUNNING RGB STRIP.gif" align="center" style="width: 130%" />
 </div>
 
 
