@@ -1,7 +1,7 @@
 ###                                                            Hi there 👋
 
 <div align="center">
-<img src="LOGO INT EDIT.gif" align="center" style=": 50%" />
+<img src="LOGO INT EDIT.gif" align="center" style=": 20%" />
 </div>  
 <br>
 <div align="center">
