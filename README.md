@@ -1,7 +1,7 @@
 ###                                                            Hi there 👋
 
 <div align="center">
-<img src="LOGO INT EDIT.gif" align="center" style=": 70%" />
+<img src="LOGO INT EDIT.gif" align="center" style=": 50%" />
 </div>  
 <br>
 <div align="center">
@@ -11,7 +11,7 @@
 <div align="center"><h2>I'm Raghav, a student and junior developer 👨‍💻🚀</h2></div>  
   
 <div align="center">
-<img src="RUNNING RGB STRIP.gif" align="center" style="width: 70%" />
+<img src="RUNNING RGB STRIP.gif" align="center" style="width: 100%" />
 </div>
 
 
@@ -26,6 +26,10 @@
 
 - ⚡ Fun fact: I use tabs over spaces  
   
+
+<div align="center">
+<img src="RUNNING RGB STRIP.gif" align="center" style="width: 100%" />
+</div>
 
 <br/>  
 
