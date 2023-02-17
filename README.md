@@ -8,7 +8,7 @@
 <img src="ezgif.com-gif-maker (1).gif" align="center" style="width: 70%" />
 </div>
 
-<div align="center">I'm Raghav, a student and junior developer 👨‍💻🚀</div>  
+<div align="center"><h2>I'm Raghav, a student and junior developer 👨‍💻🚀</h2></div>  
   
 
 - 🔭 I’m currently working on C, HTML, CSS 3, SQL & JS projects  
