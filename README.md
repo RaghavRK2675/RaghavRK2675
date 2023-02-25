@@ -72,7 +72,6 @@ My Skill Set
 <br/>  
 
 
-<div><img src="Connect-Button-unscreen.gif" style="width: 20%" /></div>
 Connect with me
 <div align="center">
 <a href="https://instagram.com/raghavrk2675" target="_blank">
