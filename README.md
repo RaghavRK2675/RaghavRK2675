@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="-Robot-Waving-unscreen.gif" align="center" style="width: 25%" /><b>Hi there👋</b> <img src="-Robot-Waving-unscreen.gif" align="center" style="width: 25%" />
+  <img src="-Robot-Waving-unscreen.gif" align="center" style="width: 25%" /><b>Hello👋</b> <img src="-Robot-Waving-unscreen.gif" align="center" style="width: 25%" />
 </div>
 <div align="center">
 <img src="RUNNING RGB STRIP.gif" align="center" style="width: 130%" />
