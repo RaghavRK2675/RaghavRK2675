@@ -72,7 +72,7 @@ My Skill Set
 <br/>  
 
 
-<span><img src="Connect-Button-unscreen.gif" style="width: 50%" />Connect with me<span>  
+<div><img src="Connect-Button-unscreen.gif" style="width: 30%" />Connect with me</div>  
 <div align="center">
 <a href="https://instagram.com/raghavrk2675" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
