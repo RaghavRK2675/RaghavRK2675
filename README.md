@@ -1,6 +1,6 @@
 <div align="center">
 <img src="RUNNING RGB STRIP.gif" align="center" style="width: 130%" />
-</div>
+</div align="center">
   <img src="FINAL LOGO COVER IMAGE.jpg" align="center" style="width: 70%" />
 </div>
 
