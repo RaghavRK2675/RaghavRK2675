@@ -1,6 +1,8 @@
 <div align="center">
   <img src="-Robot-Waving-unscreen.gif" align="center" style="width: 25%" /><b>Hello👋</b> <img src="-Robot-Waving-unscreen.gif" align="center" style="width: 25%" />
+<img src="FINAL LOGO COVER IMAGE.jpg" align="center" style="width: 70%" />
 </div>
+
 <div align="center">
 <img src="RUNNING RGB STRIP.gif" align="center" style="width: 130%" />
 </div>
