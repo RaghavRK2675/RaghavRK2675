@@ -15,7 +15,7 @@
 <img src="ezgif.com-gif-maker (1).gif" align="center" style="width: 70%" />
 </div>
 
-<div align="center"><h1>I'm Raghav, a student and junior developer 👨‍💻🚀</h1></div>  
+<div align="center"><h1><em>I'm Raghav, a student and junior developer 👨‍💻🚀</em></h1></div>  
   
 <div align="center">
 <img src="RUNNING RGB STRIP.gif" align="center" style="width: 130%" />
