@@ -41,7 +41,7 @@
 <br/>  
 
 
-My Skill Set  
+<h3>My Skill Set</h3>
 <table><tr><td valign="top" width="33%" style="margin:50px ;">
 
 <div align="center">  
@@ -74,7 +74,7 @@ My Skill Set
 <br/>  
 
 
-Connect with me
+<h3>Connect with me</h3>
 <div align="center">
 <a href="https://instagram.com/raghavrk2675" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
@@ -103,7 +103,7 @@ Connect with me
 <br/>  
 
 
-My Github Stats  
+<h3>My Github Stats</h3>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=RaghavRK2675&theme=dark&show_icons=true" align="center" style="width: 50%" /></div>  
 
 <br/>  
