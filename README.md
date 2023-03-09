@@ -1,6 +1,6 @@
 <div align="center">
 <img src="RUNNING RGB STRIP.gif" align="center" style="width: 130%" />
-  <img src="ORIGINAL INSIGNIA2.jpg" align="center" style="height: 10%" />
+  <img src="ORIGINAL INSIGNIA2.jpg" align="center" style="width: 30%" />
 </div>
 
 <div align="center">
