@@ -1,5 +1,5 @@
 <div align="center">
-<img src="RUNNING RGB STRIP.gif" align="center" style="width: 130%" />
+
   
 <div align="center">
 <img src="RUNNING RGB STRIP.gif" align="center" style="width: 130%" />
