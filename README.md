@@ -38,7 +38,7 @@
 
 <h3>My Skill Set</h3>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin-top: 20px; padding: 10px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px; margin-top: 20px; padding: 30px;">
 
   <!-- Web Technologies -->
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
