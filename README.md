@@ -63,9 +63,10 @@
     <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
   </a>
 
-  <a href="https://threejs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Three.js" height="50" />
-  </a>
+<a href="https://threejs.org/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original-wordmark.svg" alt="Three.js" height="50" style="filter: brightness(0) invert(1);" />
+</a>
+
 
   <!-- Design -->
   <a href="https://www.figma.com/" target="_blank">
